@@ -39,7 +39,7 @@ The application introduces an innovative **chat summarization feature** that hel
 
 ## Figma Prototype Link
 
-https://www.figma.com/proto/il5VI3rBLAWDgKYndbkPMO/final-project?node-id=3129-7080&t=Cr1fLt2sLF2aac0C-1
+https://www.figma.com/proto/il5VI3rBLAWDgKYndbkPMO/Sharon?node-id=0-8102&t=bigNWdpnjfwOzoqy-1
 
 
 ---
