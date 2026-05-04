@@ -43,15 +43,6 @@ https://www.figma.com/design/il5VI3rBLAWDgKYndbkPMO/final-project?node-id=3129-7
 
 ---
 
-## Project Screenshots
-These screens represent the login page, home feed, story section, and user profile interface of the Sharon application.
-
-This section shows post creation, messaging interface, and chat summarization feature.
-
-The following diagrams represent the sitemap and information architecture of the application.
-
----
-
 ## UX Documentation Included
 - User Personas  
 - User Journey Maps  
